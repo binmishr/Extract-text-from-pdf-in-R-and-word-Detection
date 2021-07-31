@@ -22,8 +22,6 @@ setwd("D:/RStudio/PDFEXTRACT/")
 
 Let’s download the demo pdf file into the local directory
 
-How to run R code in PyCharm? » R & PyCharm »
-
 download.file(pdf.file, destfile = "sample.pdf", mode = "wb")
 
 pdf_text() function, which returns a character vector of length equal to the number of pages in the file.
