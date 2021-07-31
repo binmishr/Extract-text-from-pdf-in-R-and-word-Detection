@@ -1,0 +1,1 @@
+# Extract-text-from-pdf-in-R-and-word-Detection
